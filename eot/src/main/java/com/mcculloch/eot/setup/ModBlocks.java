@@ -16,7 +16,7 @@ import java.util.function.Supplier;
 public class ModBlocks {
     public static final RegistryObject<Block> COPPER_ORE = register("copper_ore", ()->
             new Block(AbstractBlock.Properties.create(Material.ROCK).hardnessAndResistance(2, 5).harvestLevel(2).sound(SoundType.STONE)));
-    public static final RegistryObject<Block> COPPER_BLOCK = register("copper_blcok", ()->
+    public static final RegistryObject<Block> COPPER_BLOCK = register("copper_block", ()->
             new Block(AbstractBlock.Properties.create(Material.ROCK).hardnessAndResistance(2, 5).harvestLevel(2).sound(SoundType.METAL)));
 
     static void register() {}
