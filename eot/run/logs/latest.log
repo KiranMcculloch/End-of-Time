@@ -105,3 +105,19 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [04Jan2021 19:45:45.291] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 0 advancements
 [04Jan2021 19:45:46.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
 [04Jan2021 19:45:46.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[04Jan2021 19:46:32.305] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[04Jan2021 19:46:32.340] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Disconnected
+[04Jan2021 19:46:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[04Jan2021 19:46:32.349] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[04Jan2021 19:46:32.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2021 19:46:32.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2021 19:46:32.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2021 19:46:32.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[04Jan2021 19:46:33.317] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[04Jan2021 19:46:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[04Jan2021 19:46:33.320] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2021 19:46:33.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[04Jan2021 19:46:33.323] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2021 19:46:33.353] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[04Jan2021 19:46:33.358] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2021 19:46:33.358] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
