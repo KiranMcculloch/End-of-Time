@@ -1,5 +1,6 @@
 package com.mcculloch.eot;
 
+import com.mcculloch.eot.setup.Registration;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -26,6 +27,7 @@ public class eot
     private static final Logger LOGGER = LogManager.getLogger();
 
     public eot() {
+        Registration.register();
         // Register the setup method for modloading
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
         // Register the enqueueIMC method for modloading
