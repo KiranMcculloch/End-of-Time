@@ -39,6 +39,7 @@ public class eot
         MinecraftForge.EVENT_BUS.register(this);
     }
 
+
     private void setup(final FMLCommonSetupEvent event)
     {
         // some preinit code
