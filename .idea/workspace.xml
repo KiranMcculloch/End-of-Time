@@ -80,6 +80,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Gradle.eot [runClient]">
@@ -140,6 +141,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="709" y="369" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609811742908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="369" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.-65.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609811742908" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609808183409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
