@@ -27,7 +27,7 @@ public class eot
     private static final Logger LOGGER = LogManager.getLogger();
 
     public eot() {
-        Registration.register();
+
         // Register the setup method for modloading
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
         // Register the enqueueIMC method for modloading
@@ -39,6 +39,8 @@ public class eot
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        Registration.register();
     }
 
 

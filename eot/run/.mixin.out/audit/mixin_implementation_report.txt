@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Mixin Implementation Report generated on 2021-01-05 20:21:35
-=======
-Mixin Implementation Report generated on 2021-01-05 22:00:44
->>>>>>> dbf9508598db86adcf7f2113f84f1f300c639b5a
+Mixin Implementation Report generated on 2021-01-05 21:41:57

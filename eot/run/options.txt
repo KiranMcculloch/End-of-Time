@@ -18,7 +18,7 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-mouseSensitivity:0.6676661531690141
+mouseSensitivity:0.17957746982574463
 fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -29,7 +29,7 @@ guiScale:0
 particles:0
 maxFps:120
 difficulty:2
-graphicsMode:1
+graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:true
@@ -100,8 +100,8 @@ key_key.hotbar.6:key.keyboard.x
 key_key.hotbar.7:key.keyboard.c
 key_key.hotbar.8:key.mouse.5
 key_key.hotbar.9:key.mouse.4
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.6018212
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
