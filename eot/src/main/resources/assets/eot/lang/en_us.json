@@ -1,6 +1,7 @@
 {
   "item.eot.blue_rose": "Blue Rose",
   "item.eot.old_fish": "Fish",
-  "item.eot.copper_ore": "Copper Ore",
-  "item.eot.copper_block": "Copper Block"
+  "block.eot.copper_ore": "Copper Ore",
+  "block.eot.copper_block": "Copper Block",
+  "item.eot.copper_ingot": "Copper Ingot"
 }

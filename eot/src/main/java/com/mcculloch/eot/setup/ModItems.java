@@ -14,6 +14,9 @@ public class ModItems {
     public static final RegistryObject<Item> OLD_FISH = Registration.ITEMS.register("old_fish",() ->
             new Item(new Item.Properties().group(ItemGroup.FOOD)));
 
+    public static final RegistryObject<Item> COPPER_INGOT = Registration.ITEMS.register("copper_ingot",() ->
+            new Item(new Item.Properties().group(ItemGroup.MATERIALS)));
+
     static void register() {};
 
 
