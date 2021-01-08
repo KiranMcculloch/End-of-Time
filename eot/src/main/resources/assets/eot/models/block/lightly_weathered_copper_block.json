@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eot:blocks/lightly_weathered_copper_block"
+  }
+}

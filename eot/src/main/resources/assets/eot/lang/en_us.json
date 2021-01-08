@@ -3,5 +3,8 @@
   "item.eot.old_fish": "Fish",
   "block.eot.copper_ore": "Copper Ore",
   "block.eot.copper_block": "Copper Block",
+  "block.eot.lightly_weathered_copper_block": "Lightly Weathered Copper Block",
+  "block.eot.semi_weathered_copper_block": "Semi-Weathered Copper Block",
+  "block.eot.weathered_copper_block": "Weathered Copper Block",
   "item.eot.copper_ingot": "Copper Ingot"
 }
